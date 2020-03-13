@@ -1,7 +1,11 @@
+int add(int a, int b) {
+  return a + b;
+}
+
 void setup() {
 
 }
 
 void main() {
-  1+1
+  add(1,1);
 }
