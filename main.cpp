@@ -7,5 +7,5 @@ void setup() {
 }
 
 void main() {
-  add(1,1);
+  add(1,87);
 }
